@@ -90,3 +90,6 @@ warning: value assigned to `temp` is never read
 というか警告時のhelpのところに書いてあった。優秀…
 
 TODO:gitignoreに実行ファイルなどを追加する
+
+2019/12/28：追記
+忙しいので終了
